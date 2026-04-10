@@ -57,8 +57,8 @@ const SQLiteStorageAdapter = {
 
 // ── Replace these with your actual Supabase project values ───────────────────
 // Found in: Supabase Dashboard → Project Settings → API
-const SUPABASE_URL = 'https://YOUR_PROJECT_ID.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+const SUPABASE_URL = 'https://ofengxhwuuujosgtfhfv.supabase.co';
+const SUPABASE_ANON_KEY = 'https://ofengxhwuuujosgtfhfv.supabase.co';
 
 export const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
   auth: {
